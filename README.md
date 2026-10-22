@@ -189,56 +189,6 @@ The table below presents the class distribution for the currently released langu
 
 
 
-# Languages and Tracks
-
-The table below lists the tracks and specifies the languages available in each track for the shared task. Each track has its own dedicated Codabench page (competition platform), and the corresponding links are provided below:
-
-1. **Track A: Multi-label Emotion Detection** – [Track A Codabench](#link)  
-2. **Track B: Emotion Intensity** – [Track B Codabench](#link)  
-3. **Track C: Cross-lingual Emotion Detection** – [Track C Codabench](#link)  
-
-
-> One or more languages and tracks.
-
-| No. | Language                                                  | Code  | Track A | Track B | Track C |
-|-----|-----------------------------------------------------------|-------|---------|---------|---------|
-| 1   | [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans)      | AFR   | ✓       | ✗       | ✓       |
-| 2   | [Algerian Arabic](https://en.wikipedia.org/wiki/Algerian_Arabic) | ARQ   | ✓       | ✓       | ✓       |
-| 3   | [Amharic](https://en.wikipedia.org/wiki/Amharic)          | AMH   | ✓       | ✓       | ✓       |
-| 4   | [Chinese](https://en.wikipedia.org/wiki/Chinese_language) | CHN   | ✓       | ✓       | ✓       |
-| 5   | [Emakhuwa](https://en.wikipedia.org/wiki/Makhuwa_language) | VMW   | ✓       | ✗       | ✓       |
-| 6   | [English](https://en.wikipedia.org/wiki/English_language) | ENG   | ✓       | ✓       | ✓       |
-| 7   | [German](https://en.wikipedia.org/wiki/German_language)   | DEU   | ✓       | ✓       | ✓       |
-| 8   | [Hausa](https://en.wikipedia.org/wiki/Hausa_language)     | HAU   | ✓       | ✓       | ✓       |
-| 9   | [Hindi](https://en.wikipedia.org/wiki/Hindi)              | HIN   | ✓       | ✗       | ✓       |
-| 10  | [Igbo](https://en.wikipedia.org/wiki/Igbo_language)       | IBO   | ✓       | ✗       | ✓       |
-| 11  | [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language) | IND   | ✗       | ✗       | ✓       |
-| 12  | [isiXhosa](https://en.wikipedia.org/wiki/Xhosa_language)  | XHO   | ✗       | ✗       | ✓       |
-| 13  | [isiZulu](https://en.wikipedia.org/wiki/Zulu_language)    | ZUL   | ✗       | ✗       | ✓       |
-| 14  | [Javanese](https://en.wikipedia.org/wiki/Javanese_language) | JAV   | ✓       | ✗       | ✓       |
-| 15  | [Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda)  | KIN   | ✓       | ✗       | ✓       |
-| 16  | [Marathi](https://en.wikipedia.org/wiki/Marathi_language) | MAR   | ✓       | ✗       | ✓       |
-| 17  | [Moroccan Arabic](https://en.wikipedia.org/wiki/Moroccan_Arabic) | ARY   | ✓       | ✗       | ✓       |
-| 18  | [Nigerian-Pidgin](https://en.wikipedia.org/wiki/Nigerian_Pidgin) | PCM   | ✓       | ✗       | ✓       |
-| 19  | [Oromo](https://en.wikipedia.org/wiki/Oromo_language)     | ORM   | ✓       | ✗       | ✓       |
-| 20  | [Portuguese (Brazilian)](https://en.wikipedia.org/wiki/Brazilian_Portuguese) | PTBR  | ✓       | ✓       | ✓       |
-| 21  | [Portuguese (Mozambican)](https://en.wikipedia.org/wiki/Mozambican_Portuguese) | PTMZ | ✓       | ✗       | ✓       |
-| 22  | [Romanian](https://en.wikipedia.org/wiki/Romanian_language) | RON   | ✓       | ✓       | ✓       |
-| 23  | [Russian](https://en.wikipedia.org/wiki/Russian_language) | RUS   | ✓       | ✓       | ✓       |
-| 24  | [Somali](https://en.wikipedia.org/wiki/Somali_language)   | SOM   | ✓       | ✗       | ✓       |
-| 25  | [Spanish (Latin American)](https://en.wikipedia.org/wiki/Spanish_language_in_the_Americas) | ESP   | ✓       | ✓       | ✓       |
-| 26  | [Sundanese](https://en.wikipedia.org/wiki/Sundanese_language) | SUN   |  ✓       |  ✓        | ✓       |
-| 27  | [Swahili](https://en.wikipedia.org/wiki/Swahili_language) | SWA   | ✓       | ✗       | ✓       |
-| 28  | [Swedish](https://en.wikipedia.org/wiki/Swedish_language) | SWE   | ✓       | ✗       | ✓       |
-| 29  | [Tatar](https://en.wikipedia.org/wiki/Tatar_language)     | TAT   | ✓       | ✗       | ✓       |
-| 30  | [Tigrinya](https://en.wikipedia.org/wiki/Tigrinya_language) | TIR   | ✓       | ✗       | ✓       |
-| 31  | [Ukrainian](https://en.wikipedia.org/wiki/Ukrainian_language) | UKR   | ✓       | ✓       | ✓       |
-| 32  | [Yoruba](https://en.wikipedia.org/wiki/Yoruba_language)   | YOR   | ✓       | ✗       | ✓       |
-
-
-**Legend**:  
-- **✓**: The language is supported for the specified track.
-- **✗**: The language is not supported for the specified track.
 
 
 
